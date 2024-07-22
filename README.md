@@ -18,7 +18,9 @@
    <br>
    <img src="https://repobeats.axiom.co/api/embed/3183aa00d01f8636a5cbc17344c36168eff93aec.svg">
 </p>
-## Features
+
+##  How-To-Use
+
 
     1 Download The Latest Release From The Releases.
     2 Extract The Folder.
