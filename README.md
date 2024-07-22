@@ -3,7 +3,7 @@
 </h1>
 <p align= "center">
    <kbd>
-   <img  src="[https://raw.githubusercontent.com/Blank-c/Blank-Grabber/main/.github/workflows/image.png](https://github.com/BUSSO-coder/multi-tool-rat-spyware/blob/main/Screenshot%202024-07-22%20130425.png)">
+   <img  src="https://github.com/BUSSO-coder/multi-tool-rat-spyware/blob/main/Screenshot%202024-07-22%20130425.png">
    </kbd><br><br>
    <img src="https://img.shields.io/github/languages/top/Blank-c/Blank-Grabber">
    <img src="https://img.shields.io/github/stars/Blank-c/Blank-Grabber">
