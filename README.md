@@ -18,10 +18,21 @@
    <br>
    <img src="https://repobeats.axiom.co/api/embed/3183aa00d01f8636a5cbc17344c36168eff93aec.svg">
 </p>
+## Features
+
+    1 Download The Latest Release From The Releases.
+    2 Extract The Folder.
+    3 Open Installer.bat
+    4 Open Builder.Bat
+    5 Your File Is In The Dist Folder.
+
+
+
+
 
 
 ## Features
-
+    
     • GUI Builder.
     • UAC Bypass.
     • Custom Icon.
