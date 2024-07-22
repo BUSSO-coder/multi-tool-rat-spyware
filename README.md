@@ -5,15 +5,15 @@
    <kbd>
    <img  src="https://github.com/BUSSO-coder/multi-tool-rat-spyware/blob/main/Screenshot%202024-07-22%20130425.png">
    </kbd><br><br>
-   <img src="https://img.shields.io/github/languages/top/Blank-c/Blank-Grabber">
-   <img src="https://img.shields.io/github/stars/Blank-c/Blank-Grabber">
-   <img src="https://img.shields.io/github/forks/Blank-c/Blank-Grabber">
+   <img src="https://img.shields.io/github/languages/top/BUSSO-coder/multi-tool-rat-spyware">
+   <img src="https://img.shields.io/github/stars/BUSSO-coder/multi-tool-rat-spyware">
+   <img src="https://img.shields.io/github/forks/BUSSO-coder/multi-tool-rat-spywarer">
    <br>
-   <img src="https://img.shields.io/github/last-commit/Blank-c/Blank-Grabber">
-   <img src="https://img.shields.io/github/license/Blank-c/Blank-Grabber">
+   <img src="https://img.shields.io/github/last-commit/BUSSO-coder/multi-tool-rat-spyware">
+   <img src="https://img.shields.io/github/license/BUSSO-coder/multi-tool-rat-spyware">
    <br>
-   <img src="https://img.shields.io/github/issues/Blank-c/Blank-Grabber">
-   <img src="https://img.shields.io/github/issues-closed/Blank-c/Blank-Grabber">
+   <img src="https://img.shields.io/github/issues/BUSSO-coder/multi-tool-rat-spywarer">
+   <img src="https://img.shields.io/github/issues-closed/BUSSO-coder/multi-tool-rat-spyware">
    <br>
    <br>
    <img src="https://repobeats.axiom.co/api/embed/3183aa00d01f8636a5cbc17344c36168eff93aec.svg">
